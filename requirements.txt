@@ -1,1 +1,1 @@
-py -m pip install psutil
+pip install psutil
