@@ -1,2 +1,2 @@
-py -m pip install streamlit
-py -m pip install psutil
+pip install streamlit
+pip install psutil
