@@ -1,1 +1,6 @@
-py -m pip install psutil
+streamlit
+numpy
+pandas
+matplotlib
+seaborn
+psutil
