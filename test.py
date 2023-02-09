@@ -1,5 +1,6 @@
-import psutil
 import streamlit as st
+import psutil
+
 
 def check_chrome():
     for process in psutil.process_iter():
