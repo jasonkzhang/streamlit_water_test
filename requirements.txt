@@ -1,2 +1,2 @@
-py -m pip install streamlit
-py -m pip install psutil
+streamlit==1.3.0
+psutil==5.9.4
