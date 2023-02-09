@@ -1,6 +1,2 @@
 pip install -r streamlit
-pip install -r numpy
-pip install -r pandas
-pip install -r matplotlib
-pip install -r seaborn
 pip install -r psutil
